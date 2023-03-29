@@ -1,5 +1,5 @@
 # tela-login-java
-Tela de login integrada com banco de dados! :)
+Login screen made in vanilla Java, just to pratice.
 
 ## Sobre o projeto
 </p> Uma tela de login integrada com MySQL (banco de dados). <p>
