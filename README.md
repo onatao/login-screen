@@ -1,4 +1,4 @@
-# tela-login-java
+# Login screen 
 Login screen made in vanilla Java, just to pratice.
 
 ## Sobre o projeto
